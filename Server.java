@@ -1,5 +1,3 @@
-package tcp;
-
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
@@ -26,14 +24,6 @@ public class Server {
         try {
             while (true) {
                 Socket socket = listener.accept();
-/*                try {
-                    PrintWriter out =
-                        new PrintWriter(socket.getOutputStream(), true);
-                    out.println("Yunskiiii");
-                } finally {
-                    socket.close();
-                } */
-
 
     			System.out.println("Waiting for client on port " + listener.getLocalPort() + "..."); 
     			System.out.println("Just connected to " + socket.getRemoteSocketAddress()); 
