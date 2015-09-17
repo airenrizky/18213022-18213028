@@ -9,7 +9,7 @@ import java.net.Socket;
 
 import javax.swing.JOptionPane;
 
-public class SimpleFileClient {
+public class SimpleFileClientv2 {
 
     public static void main(String[] args) throws IOException {
         Socket s = new Socket("localhost", 8878);
