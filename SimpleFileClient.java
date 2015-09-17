@@ -53,5 +53,4 @@ public class SimpleFileClient {
       if (sock != null) sock.close();
     }
   }
-
 }
