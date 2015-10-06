@@ -15,7 +15,7 @@ import java.net.URL;
 /**
  * Example program to list links from a URL.
  */
-public class GetLinks {
+public class WebCrawler {
     public static void main(String[] args) throws IOException {
     	
     	URL urls;
