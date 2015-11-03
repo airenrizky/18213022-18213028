@@ -16,3 +16,7 @@ Assignment 3 (29/09/15)
 
 UTS (23-29 Oktober 2015)
 1. wget.sh
+
+Assignment PHP SOAP (3 November 2015)
+1. SOAP_Client.php
+2. SOAP_Server.php
