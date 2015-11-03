@@ -9,3 +9,4 @@
 	echo ("<h1>Data yang diambil dari tabel siswa pada database perkuliahan</h1>");
 	echo $api -> getData();
 ?>
+
