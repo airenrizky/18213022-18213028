@@ -20,3 +20,7 @@ UTS (23-29 Oktober 2015)
 Assignment PHP SOAP (3 November 2015)
 1. SOAP_Client.php
 2. SOAP_Server.php
+
+Assignment REST API (5 November 2015)
+1. rest-api.php
+2. rest-client.php
