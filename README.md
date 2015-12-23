@@ -24,3 +24,11 @@ Assignment PHP SOAP (3 November 2015)
 Assignment REST API (5 November 2015)
 1. rest-api.php
 2. rest-client.php
+
+Tugas Besar UAS (23 Desember 2015)
+1. rating.html
+2. rating_api.php
+3. event_api.php
+4. rating.php
+5. upload.php
+6. pilihevent.php
